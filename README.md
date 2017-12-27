@@ -6,7 +6,7 @@
 4. Si son iguales, va a continuar con el proceso.
 5. Comprobar uno a uno, los valores.
 6. Si son iguales todos regresar false.
-7. 2Si son exactamente iguales, continuar con el proceso.
+7. Si son exactamente iguales, continuar con el proceso.
 8. Si hemos llegado a este punto, regresar verdadero.
 9. FIN <3
 
